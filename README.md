@@ -11,24 +11,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Version Control:** Git, GitHub
 - **Tools:** Docker, Kubernetes, Jenkins
 
-## 🚀 Projects
-
-Here are some of the projects I'm proud of:
-
-### [Project 1: Machine Learning Model](https://github.com/liujunxiang0076/machine-learning-model)
-A machine learning model for predicting housing prices using various regression techniques.
-
-### [Project 2: Personal Portfolio Website](https://github.com/liujunxiang0076/portfolio-website)
-A personal portfolio website built with React to showcase my projects and skills.
-
-### [Project 3: Chat Application](https://github.com/liujunxiang0076/chat-application)
-A real-time chat application using Node.js, Express, and Socket.io.
 
 ## 📫 Get in Touch
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Junxiang Liu](https://www.linkedin.com/in/junxiangliu)
-- **Twitter:** [@junxiang_liu](https://twitter.com/junxiang_liu)
+- **Email:** [liujunxiang0076@foxmail.com](mailto:liujunxiang0076@foxmail.com)
+
 
 ## 🌱 Currently Learning
 
